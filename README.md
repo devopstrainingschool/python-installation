@@ -8,6 +8,8 @@ sudo yum install python36 -y
 ```
 python3 -V
 ```
+![image](https://user-images.githubusercontent.com/107158398/177618632-17bd0491-cdb6-40c8-942c-b3cec8bdedda.png)
+
 ## installing pip
 ```
 sudo yum install epel-release
@@ -30,6 +32,7 @@ pip install --upgrade pip==18.1
 ```
 pip -V
 ```
+![image](https://user-images.githubusercontent.com/107158398/177618740-ee693648-301e-43c4-a47d-c80af8e294c0.png)
 
 
 
